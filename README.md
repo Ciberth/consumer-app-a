@@ -1,2 +1,3 @@
-# consumer-app-a
-Consumer-app requesting 2 generic databases
+# Consumer app A
+
+Specific situation A requires 2 generic-databases
